@@ -1,4 +1,4 @@
 all: chessvizz
 chessvizz: main.cpp
-	g++ -Wall -Werror -c main.cpp -o chessvizz
+	g++ -Wall -Werror  main.cpp -o chessvizz
 
